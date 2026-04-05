@@ -4,8 +4,7 @@ Bio/Links:
 https://severe.wtf/u/cqc
 
 - Semi experienced LUA programmer,
-- Learning C++,
-- Professional Skid
+- Learning C++
 
 <!--
 **glizzymuncher57/glizzymuncher57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
